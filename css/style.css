@@ -1,0 +1,28 @@
+section {
+    display: -webkit-flex;
+    display: flex;
+    background-color: rgb(223, 17, 212);
+}
+
+nav {
+    -webkit-flex: 5;
+    -ms-flex: 5;
+    flex: 5;
+    background: #4b4a4a;
+    padding: 10px;
+    height: 100vh;
+  }
+
+  article {
+    -webkit-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+    background-color: #ac0c9e;
+    padding: 10%;
+    height: 100vh;
+    
+  }
+
+ .Login {
+    background-color: rgba(0, 0, 0, 0.8);
+ }
